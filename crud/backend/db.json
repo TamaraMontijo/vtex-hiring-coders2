@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "José da Silva",
+      "email": "jso@empresa.com"
+    },
+    {
+      "name": "Tamara Montijo",
+      "email": "tamaramontijo@empresa.com.br",
+      "id": 3
+    },
+    {
+      "name": "Maria das Graças",
+      "email": "mg@empresa.com.br",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product": "Tênis Adidas",
+      "price": "300"
+    },
+    {
+      "id": 2,
+      "product": "Casaco Adidas + Farm",
+      "price": "350"
+    }
+  ]
+}
