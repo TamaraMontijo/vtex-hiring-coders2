@@ -6,6 +6,3 @@ O projeto foi desenvolvendo como critério avaliativo na primeira fase do progra
 
 1. Cadastrar, editar, listar e excluir dados dos clientes. 
 2. Cadastrar, editar, listar, adicionar ao carrinho (dados em localStorage) e excluir produtos no invetário de e-commerce. 
-
-# vtex-hiring-coders2
-# vtex-hiring-coders2
